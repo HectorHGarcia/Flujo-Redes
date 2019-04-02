@@ -1,0 +1,19 @@
+                                         sum_sq  ...         PR(>F)
+Generador                              6.734005  ...   1.081764e-01
+Algoritmo                             41.693816  ...   6.612653e-05
+Orden                               2999.602915  ...  4.550752e-195
+Densidad                             643.580915  ...   3.316542e-52
+Generador:Algoritmo                   22.285871  ...   3.500409e-03
+Algoritmo:Orden                      122.376829  ...   1.001579e-11
+Orden:Densidad                      1701.604229  ...  5.875774e-123
+Generador:Orden                        7.490465  ...   9.022655e-02
+Generador:Densidad                    31.830308  ...   4.868091e-04
+Algoritmo:Densidad                   168.338921  ...   1.671812e-15
+Generador:Algoritmo:Orden             49.356391  ...   1.429967e-05
+Generador:Algoritmo:Densidad          54.666493  ...   4.985981e-06
+Generador:Densidad:Orden              96.271378  ...   1.492816e-09
+Algoritmo:Densidad:Orden             470.121502  ...   3.064382e-39
+Generador:Algoritmo:Densidad:Orden   154.609626  ...   2.217023e-14
+Residual                            4650.515320  ...            NaN
+
+[16 rows x 4 columns] 	
